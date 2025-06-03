@@ -10,4 +10,4 @@ jobs:
         # functions you'd like to run
         steps:
             - name: print my name
-              run: echo "ITI"
+              run: echo "ITI"
